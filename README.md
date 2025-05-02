@@ -1,6 +1,6 @@
 # 🐍 Exercícios de Python
 
-Repositório com exercícios básicos de lógica de programação utilizando a linguagem Python.
+Repositório com exercícios de lógica de programação utilizando a linguagem Python.
 
 ## 📄 Exercícios
 
